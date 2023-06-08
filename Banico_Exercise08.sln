@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30406.217
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Banico_Exercise08", "Banico_Exercise08\Banico_Exercise08.csproj", "{FD4B599C-3047-4059-978D-44E070C330F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD4B599C-3047-4059-978D-44E070C330F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD4B599C-3047-4059-978D-44E070C330F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD4B599C-3047-4059-978D-44E070C330F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD4B599C-3047-4059-978D-44E070C330F5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {899709B3-6B7B-4F45-BDB8-A8EC2403C58F}
+	EndGlobalSection
+EndGlobal
